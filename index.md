@@ -1,3 +1,8 @@
+---
+title: Home
+layout: page
+---
+
 ## ホーム
 - [Notion](https://www.notion.so/)
 - [Bitly](https://bitly.com/)
